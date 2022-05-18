@@ -4,6 +4,12 @@ __copyright__ = 'Johnson Controls International'
 __email__     = 'donald.r.whitfield@jci.com'
 __satus__     = 'Development Version'
 
+'''
+One of the Qolsys K8s clusters
+Does not have a name entry in the
+Field. Look into whether this was 
+Due to bad onboarding or misconfig
+'''
 
 import pandas as pd
 import numpy as np
